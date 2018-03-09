@@ -1,0 +1,1 @@
+@component('admin.components.form.item-checkbox', array_merge($__data, [ 'type' => 'radio' ])){{ $slot }}@endcomponent
